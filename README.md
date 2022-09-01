@@ -68,20 +68,23 @@ Project
 |-README.md  
 
 ## Installation
+
 1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7.7  
 2.pip install notebook  
 3.jupyter nbextension enable --py --sys-prefix widgetsnbextension   
 &emsp;conda install -c conda-forge gmaps  
 &emsp;jupyter nbextension enable --py --sys-prefix gmaps  
-4.conda install matplotlib  
+4.conda install matplotlib 
+
 ## Prerequisites
-1.Get a free API Key at https://cloud.google.com/maps-platform/
-Clone the repo
-git clone https://github.com/your_username_/Project-Name.git
-Create a api-keys.py to put your API in
-gkey = 'ENTER YOUR API'
+
+1. Get a free API Key at https://cloud.google.com/maps-platform/
+&emsp;Clone the repo
+&emsp;git clone https://github.com/your_username_/Project-Name.git
+&emsp;Create a api-keys.py to put your API in
+&emsp;gkey = 'ENTER YOUR API'
  
-2.register Openweather API
+2. register Openweather API
 
 
 
