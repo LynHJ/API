@@ -51,22 +51,24 @@ Setting up my prefered weather condition
 ![ALT](https://github.com/LynHJ/API/blob/bf09f21c59a5918d28f70d477b96aa4da4af3d8a/WeatherPy/Image/Marker_Layer.png)
 
 ## Content:
-
+```
 Project  
-|  
-|-&nbsp;WeatherPy|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-VacationPy.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-WeatherPy.ipynb   
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-OutputData:|-CityData.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-LatCloud.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-LatHumi.png    
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-LatMaxt.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-LatWindSd.png    
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Image:&emsp;&emsp;&nbsp;|-Heatmap_layer.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Marker_Layer.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-requirements.txt    
-|-.gitignore  
-|-README.md   
+├── README.md
+├── WeatherPy
+    ├── Image
+    │   ├── Heatmap_layer.png
+    │   └── Marker_Layer.png
+    ├── Output Data
+    │   ├── CityData.csv
+    │   ├── LatCloud.png
+    │   ├── LatHumi.png
+    │   ├── LatMaxt.png
+    │   └── LatWindSd.png
+    ├── VacationPy.ipynb
+    ├── WeatherPy.ipynb
+    ├── api_keys.py
+    └── requirements.txt
+```
 
 ## Installation
 
