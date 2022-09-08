@@ -63,18 +63,14 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-LatMaxt.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-LatWindSd.png    
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Image:&emsp;&emsp;&nbsp;|-Heatmap_layer.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Marker_Layer.png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Marker_Layer.png
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-requirements.txt  
 |-.gitignore  
-|-README.md  
+|-README.md   
 
 ## Installation
 
-1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7.7  
-2.pip install notebook  
-3.jupyter nbextension enable --py --sys-prefix widgetsnbextension   
-&emsp;conda install -c conda-forge gmaps  
-&emsp;jupyter nbextension enable --py --sys-prefix gmaps  
-4.conda install matplotlib 
+pip install -r requirements.txt  
 
 ## Prerequisites
 
