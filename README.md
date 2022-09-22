@@ -5,13 +5,13 @@
 Whether, financial, political, or social data's true power rests in its ability to answer questions definitively. When people plan holidays,they do not want their vacations to be spoiled by bad weather. Here is the task for me to pick out suitable cities to travel while the weather conditions match my preference.
 
 
-### Source
+## Source
 
 1.Randomly pick over 500 cities.
 2.Make API calls from Openweather to get cities' weather conditions.
 
 
-### Data Analysis
+## Data Analysis
 
 1.Latitude vs. Temperature Plot  
 ![ALT](https://github.com/LynHJ/API/blob/bf09f21c59a5918d28f70d477b96aa4da4af3d8a/WeatherPy/Output%20Data/LatMaxt.png)  
@@ -33,7 +33,7 @@ The picture above shows that cities' cloudness is not related with their latitud
 Note:  
 The picture above shows that cities' Wind Speed is not related with their latitude. The city data with 17.5(mph)wind speed might be a outlier. We need more detial of that city to make a clear conclusion.  
 
-### Advanced Data Analysis
+## Advanced Data Analysis
 
 Setting up my prefered weather condition  
 1. Temperature:21~27  
