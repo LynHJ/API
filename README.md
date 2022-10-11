@@ -1,4 +1,4 @@
-## API-Targeting Holiday Location
+## Targeting Holiday Location
 
 
 ## Background
