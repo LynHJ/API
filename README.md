@@ -1,12 +1,12 @@
 ## Targeting Holiday Location
 
-![](https://img.shields.io/badge/citipy-0.0.5-informational?style=plastic&logo=appveyor)  
-![](https://img.shields.io/badge/gmaps-0.9.0-informational?style=plastic&logo=appveyor)  
-![](https://img.shields.io/badge/matplotlib-3.2.2-informational?style=plastic&logo=appveyor)  
-![](https://img.shields.io/badge/numpy-1.23.4-informational?style=plastic&logo=appveyor)  
-![](https://img.shields.io/badge/pandas-1.0.3-informational?style=plastic&logo=appveyor) 
-![](https://img.shields.io/badge/requests-2.27.1-informational?style=plastic&logo=appveyor)  
-![](https://img.shields.io/badge/scipy-1.4.1-informational?style=plastic&logo=appveyor) 
+![](https://img.shields.io/badge/citipy-0.0.5-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/gmaps-0.9.0-informational?style=plastic&logo=appveyor) 
+![](https://img.shields.io/badge/matplotlib-3.2.2-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/numpy-1.23.4-informational?style=plastic&logo=appveyor) 
+![](https://img.shields.io/badge/pandas-1.0.3-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/requests-2.27.1-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/scipy-1.4.1-informational?style=plastic&logo=appveyor)
 
 ## Background
 Whether, financial, political, or social data's true power rests in its ability to answer questions definitively. When people plan holidays,they do not want their vacations to be spoiled by bad weather. Here is the task for me to pick out suitable cities to travel while the weather conditions match my preference.
